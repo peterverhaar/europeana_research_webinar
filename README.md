@@ -6,8 +6,7 @@ The notebooks that have been developed for this workshop can be run in two ways.
 * Open Google Colab: https://colab.research.google.com/
 * Choose File > Upload Notebook
 * In the window that appears, click on “gitHub”
-* Under “Enter a GitHub URL”, provide the following URL: 
-https://github.com/peterverhaar/europeana_research_webinar/ and click on the search icon.
+* Under “Enter a GitHub URL”, provide the following URL: https://github.com/peterverhaar/europeana_research_webinar/ and click on the search icon.
 * Click on “Open in new tab” after one of the notebooks 
 
 # Option 2
